@@ -1,0 +1,28 @@
+/*
+*Maura Mullen
+*November 2
+*Alcatraz
+*/
+/* The universal selector*/
+* {}
+
+/*Body attributes here*/
+body {
+    width: 80%;
+    background-color: lightgoldenrodyellow;
+}
+
+#Alcatraz {
+    width: 500px;
+    height: 300px;
+}
+
+#cells {
+    width: 500px;
+    height: 300px;
+}
+
+#island {
+    width: 500px;
+    height: 300px;
+}
